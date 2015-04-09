@@ -16,7 +16,7 @@ public class JavaApplication9 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println(" probando ");
+        System.out.println(" probando  desde github hacia netbeans");
     }
     
 }
