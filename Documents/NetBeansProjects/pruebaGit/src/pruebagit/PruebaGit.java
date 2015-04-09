@@ -15,8 +15,7 @@ public class PruebaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // ejemplo para prueba
-        System.out.println(" Subiendo archivo a github");
+        System.out.println(" prueba con github ");
     }
     
 }
